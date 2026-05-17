@@ -6,10 +6,10 @@ I love building and maintaining practical tooling for Robot Framework users work
 
 ## What I Work On 🧪
 
-- 🤖 Robot Framework based testing for Kubernetes and cloud-native platforms
+- 🤖 [Robot Framework](https://robotframework.org/) based testing for Kubernetes and cloud-native platforms
 - ✅ QA strategy for modern distributed systems
 - ☁️ [CNCF](https://www.cncf.io/) ecosystem projects and workflows
-- 🏗️ Infrastructure testing with OpenTofu and Terraform
+- 🏗️ Infrastructure testing with [OpenTofu](https://opentofu.org/) and Terraform
 
 ## Open Source Contributions 🌍
 
@@ -30,7 +30,7 @@ Built and maintain a Robot Framework library to support Infrastructure as Code t
 
 ## Talks and Community 🎤
 
-I regularly share practical QA and automation lessons with the [Robot Framework](https://robotframework.org/) community.
+I regularly share practical QA and automation lessons with the Robot Framework community.
 
 - 📍 RoboCon Helsinki 2021: [YouTube talk](https://www.youtube.com/watch?v=0vtj9Hg-LWU)
 - 📍 RoboCon Helsinki 2025: [YouTube talk](https://www.youtube.com/watch?v=q1iLttgY8I0)
