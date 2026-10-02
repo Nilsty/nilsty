@@ -1,6 +1,6 @@
 # Hi, I'm Nils 👋
 
-Principal QA Engineer focused on cloud-native quality engineering, test automation, and open source.
+Staff Engineer focused on cloud-native quality engineering, test automation, and open source.
 
 I love building and maintaining practical tooling for Robot Framework users working with Kubernetes and Infrastructure as Code.
 
